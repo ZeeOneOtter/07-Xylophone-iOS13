@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import AVFoundation // package allows us to tap into audio visal components of iPhone
+import AVFoundation // package allows us to tap into audio visual components of iPhone
 
 
 class ViewController: UIViewController {
